@@ -3,16 +3,9 @@
 
 This is a free lancing project where I made a dynamic website for managing inventory with features like Billing, Adding, Removing Inventory/Stock and Analysis of Sales and Stocks with custom filters for a retail client
 
+#Author
 
-## Demo
-
-Here is a working demo of the website:- https://www.youtube.com/watch?v=MTikCHU2FL0&t=603s
-
-  
-## Authors
-
-- [@sheturaj](https://github.com/ShetuRaj)
-
+Riddhi Sahu
   
 ## Contributing
 
@@ -30,7 +23,7 @@ You can let me know if you want to contribute to this project.
 - Sales Analysis
 - Stock Analysis
 - Generation of Bill in printable format
-- Passport Authentication ([Tutorial Link](https://www.youtube.com/watch?v=-RCnNyD0L-s))
+
 
   
 ## Tech Stack
@@ -47,11 +40,7 @@ Install MySQL
   https://dev.mysql.com/downloads/installer/
 ```
 
-MySQL Installation Guide
 
-```bash
-  https://www.youtube.com/watch?v=u96rVINbAUI
-```
 Download mysql database **.sql** file from here
 
 ```bash
@@ -81,7 +70,7 @@ Download and install **node** from here
   https://nodejs.org/en/download/
 ```
 
-Clone the project (You can also download this project directly as a zip file by clicking on **Code** present on top of this page and then clicking **Download Zip**)
+
 
 ```bash
   git clone https://github.com/ShetuRaj/Inventory-Management-and-Billing-Website.git
@@ -115,7 +104,7 @@ Type this is your browser to open the local version of the website
   
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your `.env` file (Create a file named `.env` at the root of your project directory, i.e., in **Inventory-Management-and-Billing-Website** folder)
+
 
 ```bash
 SESSION_SECRET=secret
